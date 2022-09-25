@@ -1,0 +1,6 @@
+1: npm init -y
+2: npm install express compression
+3: criar index.js com um mini server
+4: criar um laço for com uma requisição grande pra testar
+5: importar o compression e passar ele no app.use com level 9
+6: adicionar o cache-control
